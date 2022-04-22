@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "data": {
+        "show_system_reset_message": false,
+        "resetStyle": 51,
+        "reset_font_color": "#FF4500",
+        "sound": false,
+        "soundId": 3028
+    }
+}
